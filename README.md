@@ -1,6 +1,6 @@
 - 👋 Hello , i'm gregory also known as elguion
 -   I am currently an undergrad systems engineering student
--  I possess interests and experience in fields such as app development , data analytics and marketing
+-  I possess interests and experience in fields such as ML/AI , data analytics and electronics
 -  I look forward to future collaborations .
 
 <!---
